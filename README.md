@@ -281,17 +281,3 @@ pip install -r requirements.txt
 - Model Performance Comparison
 
 ---
-
-## Author
-
-**Your Name**
-
-Bachelor of Technology (B.Tech)
-
-Department of Computer Science / Artificial Intelligence
-
----
-
-## License
-
-This project is developed for educational and academic purposes.
